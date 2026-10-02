@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"e:\\lab dsa\\insertion_sort.c","tests":[{"id":1754987487246,"input":"5\n2 1 8 6 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\lab dsa\\insertion_sort.c","group":"local","local":true}
